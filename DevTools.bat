@@ -40,7 +40,7 @@ echo ===================================
 call :install "1/6" "Dev-C++ 5.11" "Bloodshed.Dev-C++" "--version 5.11"
 call :install "2/6" "Visual Studio Code" "Microsoft.VisualStudioCode"
 call :install "3/6" "IntelliJ IDEA Community" "JetBrains.IntelliJIDEA.Community"
-call :install "4/6" "MySQL Installer" "Oracle.MySQL"
+call :install "4/6" "MySQL Server" "Oracle.MySQL"
 call :install "5/6" "MySQL Workbench" "Oracle.MySQLWorkbench"
 call :install "6/6" "Miniconda3" "Anaconda.Miniconda3"
 
