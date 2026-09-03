@@ -7,18 +7,15 @@ if errorlevel 1 (
     exit /b 1
 )
 
-call :install "Microsoft.VisualStudioCode"
-call :install "JetBrains.IntelliJIDEA.Community"
-call :install "Oracle.JDK.21"
-call :install "Anaconda.Miniconda3"
-call :install "Google.AndroidStudio"
-call :install "Oracle.MySQL"
-call :install "Oracle.MySQLWorkbench"
-call :install "Orwell.Dev-C++" "5.11"
-call :install "Git.Git"
-call :install "Docker.DockerDesktop"
-call :install "Microsoft.WSL"
-call :install "Canonical.Ubuntu.2404"
+call :install "NAVER.Whale"
+call :install "Microsoft.PowerShell"
+call :install "Kakao.KakaoTalk"
+call :install "Notion.Notion"
+call :install "GeekUninstaller.GeekUninstaller"
+call :install "Bandisoft.Bandizip"
+call :install "Microsoft.PowerToys"
+call :install "9PKTQ5699M62"
+
 
 
 echo.
